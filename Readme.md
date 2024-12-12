@@ -1,3 +1,5 @@
+# Day 1
+
 **Schema (PostgreSQL v17)**
 
     DROP TABLE IF EXISTS children CASCADE;
